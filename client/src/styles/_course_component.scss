@@ -1,0 +1,12 @@
+.card {
+  .card-body {
+    transition: 0.2s;
+    transition-timing-function: ease-in-out;
+    background-color: rgb(210, 193, 80);
+    color: black;
+  }
+  .card-body:hover {
+    background-color: rgb(177, 123, 21);
+    color: white;
+  }
+}
